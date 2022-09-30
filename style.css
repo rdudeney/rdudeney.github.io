@@ -3,13 +3,25 @@ body {
 }
 h1 {
     color: blue;
+    font-size: 60px;
     font-family:'Courier New', Courier, monospace;
     border-style: solid;
     border-color: green;
     border-width: 5px
 
 }
-p {
+
+h2 {
+    color: blue;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    border-style: solid;
+    border-color: green;
+    border-width: 2px;
+    
+}
+
+pre {
     color: black;
     border-style: dotted;
 
