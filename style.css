@@ -7,7 +7,8 @@ h1 {
     font-family:'Courier New', Courier, monospace;
     border-style: solid;
     border-color: green;
-    border-width: 5px
+    border-width: 5px;
+    text-align: center;
 
 }
 
@@ -18,11 +19,12 @@ h2 {
     border-style: solid;
     border-color: green;
     border-width: 2px;
+    text-align: center;
     
 }
 
 pre {
-    color: black;
     border-style: dotted;
+    text-align: center;
 
 }
