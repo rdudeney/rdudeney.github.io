@@ -1,13 +1,10 @@
 body {
-    background-color: aqua;
+    background-color:blanchedalmond;
 }
 h1 {
     color: blue;
     font-size: 60px;
     font-family:'Courier New', Courier, monospace;
-    border-style: solid;
-    border-color: green;
-    border-width: 5px;
     text-align: center;
 
 }
@@ -16,15 +13,16 @@ h2 {
     color: blue;
     font-size: 30px;
     font-family:'Courier New', Courier, monospace;
-    border-style: solid;
-    border-color: green;
-    border-width: 2px;
     text-align: center;
     
 }
 
-pre {
-    border-style: dotted;
+p {
     text-align: center;
+}
 
+.ball {
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px lightblue;
 }
